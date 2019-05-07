@@ -1,0 +1,2 @@
+A set of scripts necessary for analysis of Growth Curves and GDGT lipids. Analysis.R has a step by step analysis, and GrowthRateScript.R has necessary functions that must be loaded to run the analysis. 
+Example Data is in /BatchExperiments. A dataframe that has been compiled with initial data is in /dataframeforGDGT.csv
